@@ -1,5 +1,13 @@
 # Project-
 Suffix Array 
+
+
+
+
+
+
+
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +20,6 @@ namespace Project_Suffix
     {
         static void Main(string[] args)
         {
-
             StreamReader sr = new StreamReader("C:\\Sample.txt");
 
             //Read the first line of text
