@@ -11,8 +11,8 @@ Suffix Array
 
 
 
-    namespace Project_Suffix
-   {
+     namespace Project_Suffix
+    {
 
         class Program
     {
